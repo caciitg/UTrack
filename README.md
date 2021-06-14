@@ -20,7 +20,7 @@ The data was cleaned using libraries like regex, NLTK. Links, emojis, emoticons,
 We explored Transformer models and found that BERT(Bidirectional Encoder Representations from Transformers) was better-suited for sentiment analysis. We used a pretrained BERT model and fine-tuned it on our training data. We made a model for each class. <br />
 
 ### 2.3 Visualisation and Deployment
-We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time. Moreover, we calculated the weighted average, over previous tweets, for each category. **[0-LOW, 1-HIGH]**
+We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time. Moreover, we calculated the weighted average, over previous tweets, for each category **[0-LOW, 1-HIGH]**.
 Additonally, you can also view each specific tweet and its scores.
 Deployment was done using Sreamlit. 
 
