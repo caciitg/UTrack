@@ -37,7 +37,7 @@ Deployment was done using Sreamlit.
 
 ## 4. Usage
 To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
-Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok** link. <br />
+Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok** link which is produced by the .ipynb file. <br />
 
 Once you go to the localhost, use the following video as a reference:
   
