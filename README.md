@@ -1,4 +1,4 @@
-![alt text](https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg = 250*250) <br />
+<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="100" height="100"> <br />
 Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 
 ## 1. Technologies Used
