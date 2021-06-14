@@ -32,6 +32,13 @@ Use the following video as a reference:
 ![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
 
 
+## 5. Team
+* [Arsh Kandroo](https://github.com/Arsh2k01)
+* [Franchis Saikia](https://github.com/Francode007)
+* [Narmin Kauser](https://github.com/narmin24)
+* [Roshan Shaji](https://github.com/roshan-shaji)
+* [Jaswanth Gudiseva](https://github.com/jaswanth-gudiseva)
+* [Atharva Shrawge](https://github.com/haxer-max)
 
-## 5. License
+## 6. License
 [MIT](https://choosealicense.com/licenses/mit/)
