@@ -20,7 +20,7 @@ Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 * **`Extracting Targeted Tweets.py`** - Script to scrape a user's Twitter information
 * **`Streamlit Deployment.py`** - Script to deploy the project
 * **`Streamlit Deployment.ipynb`** - Jupyter Notebook to deploy the project
-* **`Extracted Tweets`** - Training Data
+* **Extracted Tweets** - Training Data
 * **Training Models:**
    * **`Anxiety Model.py`**
    * **`Lonely Model.py`**
