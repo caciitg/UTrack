@@ -22,9 +22,9 @@ Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 * **`Streamlit Deployment.ipynb`** - Jupyter Notebook to deploy the project
 * **`Extracted Tweets`** - Training Data
 * **Training Models:**
-   * `Anxiety Model.py`
-   * `Lonely Model.py`
-   * `Stress Model.py`
+   * **`Anxiety Model.py`**
+   * **`Lonely Model.py`**
+   * **`Stress Model.py`**
 
 ## 4. Usage
 To use UTrack, To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
