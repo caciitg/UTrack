@@ -27,9 +27,10 @@ Project under Consulting and Analytics Club, IITG
    * *Stress Model.py*
 
 ## 4. Usage
-To use UTrack, go to this [link](http://f7581a3641cd.ngrok.io/). <br />
-Use the following video as a reference:
-<br />
+To use UTrack, To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
+Then run **Streamlit Deployment.ipynb** on Google Colab.  <br />
+
+Once you go to the localhost, use the following video as a reference:
 ![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
 
 
