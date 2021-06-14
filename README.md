@@ -1,4 +1,4 @@
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="400" height="400"> <br />
+<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="540" height="540"> <br />
 Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 
 ## 1. Technologies Used
