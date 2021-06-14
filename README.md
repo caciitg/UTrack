@@ -28,7 +28,7 @@ Project under Consulting and Analytics Club, IITG
 
 ## 4. Usage
 To use UTrack, To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
-Then run **Streamlit Deployment.ipynb** on Google Colab.  <br />
+Then run **Streamlit Deployment.ipynb** on Google Colab. Click on the **ngrok** link. <br />
 
 Once you go to the localhost, use the following video as a reference:
   
