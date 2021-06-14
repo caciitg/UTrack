@@ -1,4 +1,4 @@
-![alt text](https://github.com/Arsh2k01/UTrack/blob/main/UTrack-Description.jpg) <br />
+![alt text](https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg) <br />
 Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 
 ## 1. Technologies Used
