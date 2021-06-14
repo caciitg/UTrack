@@ -2,7 +2,7 @@
 <img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="650" height="620"> 
  </p> 
 <br />
-Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
+Project under <a href = "https://github.com/caciitg">Consulting and Analytics Club, IITG</a>
 
 ## 1. Technologies Used
 
