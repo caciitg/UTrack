@@ -27,7 +27,8 @@ Project under Consulting and Analytics Club, IITG
    * *Stress Model.py*
 
 ## 4. Usage
-To use UTrack, go to this [link](http://f7581a3641cd.ngrok.io/). Use the following video as a reference:
+To use UTrack, go to this [link](http://f7581a3641cd.ngrok.io/). <br />
+Use the following video as a reference:
 ![demo video]()
 
 
