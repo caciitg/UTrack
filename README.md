@@ -1,4 +1,4 @@
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="630" height="630"> <br />
+<img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="650" height="620"> <br />
 Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 
 ## 1. Technologies Used
@@ -14,6 +14,9 @@ Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 ### 2.1 Data Extraction and Preprocessing
 ### 2.2 DL Model
 ### 2.3 Visualisation and Deployment
+We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time.
+Additonally, you can also view each specific tweet and its scores.
+Deployment was done using Sreamlit. 
 
 ## 3. Files
 * **`Cleaning Tweets.py`** - Script to clean scraped tweets
