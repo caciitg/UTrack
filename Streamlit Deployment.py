@@ -440,7 +440,7 @@ st.subheader('*Analysing Twitter Users on Tweet-to-Tweet basis to track levels o
 raw_text = st.text_input("Enter the exact twitter handle of the Personality (without @)")
 st.text(raw_text)
 if raw_text == '':
-  st.text('OOPS!!!! Enter userID')
+  st.text('Enter userID')
 else:
   combine_all(raw_text)
 
