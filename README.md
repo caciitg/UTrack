@@ -16,19 +16,19 @@ Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 ### 2.3 Visualisation and Deployment
 
 ## 3. Files
-* **Cleaning Tweets.py** - Script to clean scraped tweets
-* **Extracting Targeted Tweets.py** - Script to scrape a user's Twitter information
-* **Streamlit Deployment.py** - Script to deploy the project
-* **Streamlit Deployment.ipynb** - Jupyter Notebook to deploy the project
-* **Extracted Tweets** - Training Data
+* **`Cleaning Tweets.py`** - Script to clean scraped tweets
+* **`Extracting Targeted Tweets.py`** - Script to scrape a user's Twitter information
+* **`Streamlit Deployment.py`** - Script to deploy the project
+* **`Streamlit Deployment.ipynb`** - Jupyter Notebook to deploy the project
+* **`Extracted Tweets`** - Training Data
 * **Training Models:**
-   * *Anxiety Model.py*
-   * *Lonely Model.py*
-   * *Stress Model.py*
+   * `Anxiety Model.py`
+   * `Lonely Model.py`
+   * `Stress Model.py`
 
 ## 4. Usage
 To use UTrack, To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
-Then run **Streamlit Deployment.ipynb** on Google Colab. Click on the **ngrok** link. <br />
+Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok** link. <br />
 
 Once you go to the localhost, use the following video as a reference:
   
