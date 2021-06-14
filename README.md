@@ -34,4 +34,4 @@ Use the following video as a reference:
 
 
 ## 5. License
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
