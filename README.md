@@ -12,7 +12,7 @@ Project under [Consulting and Analytics Club, IITG](https://github.com/caciitg)
 
 ## 2. Project Description
 ### 2.1 Data Extraction and Preprocessing
-We scraped data for each illness using the Tweepy API, based on keywords for each category.
+We scraped data for each illness using the Tweepy API, based on keywords and phrases for each category.
 Additionally, we scraped tweets that didn't contain these keywords. This data acted as the ‘neutral’ data.
 The data was cleaned using libraries like regex, NLTK. Links, emojis, emoticons, and symbols were removed. 
 
