@@ -15,7 +15,7 @@ Project under <a href = "https://github.com/caciitg">Consulting and Analytics Cl
 
 ## 2. Project Description
 ### 2.1 Data Extraction and Preprocessing
-We scraped data for each illness using the Tweepy API, based on keywords for each category.
+We scraped data for each illness using the Tweepy API, based on keywords and phrases for each category.
 Additionally, we scraped tweets that didn't contain these keywords. This data acted as the ‘neutral’ data.
 The data was cleaned using libraries like regex, NLTK. Links, emojis, emoticons, and symbols were removed. 
 
@@ -29,7 +29,7 @@ The output given by the final layer was not fed to any activation function; it w
  <br />
 
 ### 2.3 Visualisation and Deployment
-We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time.
+We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time. Moreover, we estimate the weighted average for each category, over previous tweets **`[0:LOW,1:HIGH]`**.
 Additonally, you can also view each specific tweet and its scores.
 Deployment was done using Streamlit. 
 
@@ -46,7 +46,7 @@ Deployment was done using Streamlit.
 
 ## 4. Usage
 To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
-Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok** link. <br />
+Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok** link produced by the .ipynb file. <br />
 
 Once you go to the localhost, use the following video as a reference:
   
