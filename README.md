@@ -5,7 +5,7 @@ Project under Consulting and Analytics Club, IITG
 
 1. Tweepy API
 2. NLTK
-3. BERT
+3. BERT Model
 4. Tensorflow
 6. Seaborn
 5. Streamlit
