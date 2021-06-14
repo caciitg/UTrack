@@ -17,6 +17,8 @@ Additionally, we scraped tweets that didn't contain these keywords. This data ac
 The data was cleaned using libraries like regex, NLTK. Links, emojis, emoticons, and symbols were removed. 
 
 ### 2.2 DL Model
+We explored Transformer models and found that BERT(Bidirectional Encoder Representations from Transformers) was better-suited for sentiment analysis. We used a pretrained BERT model and fine-tuned it on our training data. We made a model for each class. <br />
+
 ### 2.3 Visualisation and Deployment
 We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time.
 Additonally, you can also view each specific tweet and its scores.
@@ -50,5 +52,8 @@ Once you go to the localhost, use the following video as a reference:
 * [Jaswanth Gudiseva](https://github.com/jaswanth-gudiseva)
 * [Atharva Shrawge](https://github.com/haxer-max)
 
-## 6. License
+## 6. References
+* [Bidirectional Encoder Representations from Transformers (BERT): A sentiment analysis odyssey](https://arxiv.org/abs/2007.01127)
+
+## 7. License
 [MIT](https://choosealicense.com/licenses/mit/)
