@@ -31,7 +31,8 @@ To use UTrack, To use UTrack, first add [this folder](https://tinyurl.com/utrack
 Then run **Streamlit Deployment.ipynb** on Google Colab.  <br />
 
 Once you go to the localhost, use the following video as a reference:
-![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
+  
+  ![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
 
 
 ## 5. Team
