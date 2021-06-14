@@ -20,7 +20,7 @@ The data was cleaned using libraries like regex, NLTK. Links, emojis, emoticons,
 We explored Transformer models and found that BERT(Bidirectional Encoder Representations from Transformers) was better-suited for sentiment analysis. We used a pretrained BERT model and fine-tuned it on our training data. We trained a model for each class. <br />
 The output given by the final layer was not fed to any activation function; it was instead given as input to a custom function to normalize and standardize the data. The function is given below: <br />
 <br />
-<img src="https://github.com/Arsh2k01/UTrack/blob/main/function.jpeg" width="300" height="100"> <br />
+<img src="https://github.com/Arsh2k01/UTrack/blob/main/function.jpeg" width="600" height="150"> <br />
 
 ### 2.3 Visualisation and Deployment
 We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time.
