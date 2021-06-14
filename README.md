@@ -18,12 +18,11 @@ The data was cleaned using libraries like regex, NLTK. Links, emojis, emoticons,
 
 ### 2.2 DL Model
 We explored Transformer models and found that BERT(Bidirectional Encoder Representations from Transformers) was better-suited for sentiment analysis. We used a pretrained BERT model and fine-tuned it on our training data. We trained a model for each class. <br />
-The output given by the final layer was not fed to any activation function; it was instead given as input to a custom function to normalize and standardize the data.
 
 ### 2.3 Visualisation and Deployment
 We used Seaborn to display the caculated level of Loneliness, Stress, and Anxiety for each user across time, thus enabling us to see how the user's mental state varied over time.
 Additonally, you can also view each specific tweet and its scores.
-Deployment was done using Streamlit. 
+Deployment was done using Sreamlit. 
 
 ## 3. Files
 * **`Cleaning Tweets.py`** - Script to clean scraped tweets
@@ -55,6 +54,8 @@ Once you go to the localhost, use the following video as a reference:
 
 ## 6. References
 * [Bidirectional Encoder Representations from Transformers (BERT): A sentiment analysis odyssey](https://arxiv.org/abs/2007.01127)
+* [Studying expressions of loneliness in individuals using twitter: an observational study](https://bmjopen.bmj.com/content/bmjopen/9/11/e030355.full.pdf)
+* [Understanding and Measuring Psychological Stress Using Social Media](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/5ea0bea583b33b7bb006e140/1587592872890/2019UnderstandingStress.pdf)
 
 ## 7. License
 [MIT](https://choosealicense.com/licenses/mit/)
