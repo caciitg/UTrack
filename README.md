@@ -29,7 +29,7 @@ Project under Consulting and Analytics Club, IITG
 ## 4. Usage
 To use UTrack, go to this [link](http://f7581a3641cd.ngrok.io/). <br />
 Use the following video as a reference:
-![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.mp4)
+![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
 
 
 
