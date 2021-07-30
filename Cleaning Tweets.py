@@ -16,7 +16,7 @@ import random
 from nltk.tokenize import WordPunctTokenizer
 from nltk.tag import pos_tag
 from nltk.stem.wordnet import WordNetLemmatizer 
-from nltk.corpus im pplport stopwords
+from nltk.corpus import stopwords
 
 
 # In[ ]:
